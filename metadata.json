@@ -1,0 +1,6 @@
+{
+  "name": "Faizan's Diary",
+  "description": "Native Android app to record daily fertilizer bag sales, manage types, visualize stats, and calculate sales incentives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
